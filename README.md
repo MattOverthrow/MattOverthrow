@@ -1,7 +1,3 @@
-<div align="center">
-<img width="600" height = "200px" src="https://pbs.twimg.com/profile_banners/1422321163225739269/1627985967/600x200" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
