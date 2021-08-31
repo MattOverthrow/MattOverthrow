@@ -8,7 +8,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Learning abstract languages to be undetected by more antiviruses 
+- 🔭 I’m currently working on Ratting minecraft clients
 
 - 🌱 I’m currently learning Java development 
 
