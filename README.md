@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on making Metasploit for token grabbers 😏
 
-- 🌱 I’m currently learning how to obfuscate powershell 
+- 🌱 I’m currently learning how to load and execute binary in memory 
 
 - 👯 I’m looking to collaborate on Hackig Projects
 
